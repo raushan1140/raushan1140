@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Android,React,Graphic Design,**
 
-- 💬 Ask me about **C,C++, Web Dev, Linux**
+- 💬 Ask me about **C,C++,Java,Web Dev, Linux**
 
 - 📫 How to reach me **raj.raushan9101@gmail.com**
 
