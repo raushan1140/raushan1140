@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, It's Me Raushan Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f2caaa36dca1a4a7ecd1332d7f3a69c37238caaaedc530e2612cc28b0ed3cf5e/68747470733a2f2f7777772e76656e756578706c6f7265722e636f6d2e73672f75706c6f6164732f576f726b696e67253230696e25323070726f6772657373732e676966">
