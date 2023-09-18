@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **raj.raushan9101@gmail.com**
 
-- ⚡ Fun fact **I treat the Same way You use to Do..😁**
+- ⚡ Fun fact **I treat the Same way You use to Do..🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
