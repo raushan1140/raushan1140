@@ -17,25 +17,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name        : Raushan Raj
-role        : Data Analyst | BI Developer | Analytics Engineer
-location    : Noida, Uttar Pradesh, India 🇮🇳
-education   : B.E. Computer Science — Chitkara University (CGPA: 8.88/10)
-experience  : Associate Software Engineer @ MAQ Software (Oct 2024 – Sep 2025)
-expertise   : ETL Pipelines · Power BI · Azure Databricks · Python · SQL · NLP
-open_to     : Data Analyst | Business Analyst | BI Developer roles
-available   : Immediately
-contact     : raj.raushan9101@gmail.com
-fun_fact    : "I treat the Same way You use to Do.. 🙂"
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -142,21 +123,6 @@ fun_fact    : "I treat the Same way You use to Do.. 🙂"
 - 🔷 Applied **statistical data analysis & data cleaning** on enterprise datasets for client-facing analytics
 - 🔷 Implemented **CI/CD workflows** using Azure DevOps & Azure Pipelines for automated deployments
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Highlights |
-|---------|-----------|------------|
-| 🔍 **Resume Analytics Platform** | Python · FastAPI · PostgreSQL · NLP · React · Vercel | ATS scoring across 16 job roles, weighted multi-dim scoring engine, JWT auth |
-| 🧾 **AI Invoice-PO Matching Agent** | Flask · GPT-4 · OCR · React · SQL | Fuzzy matching, GPT-4 NL→SQL, multi-format doc processing (PDF/PNG/TIFF) |
-| 📦 **FastBox Logistics Analytics** | Python · Algorithms · JSON · CSV | Euclidean distance routing, automated performance reports with CSV export |
-
-</div>
-
----
 
 ## 🏅 Certifications
 
@@ -187,27 +153,6 @@ fun_fact    : "I treat the Same way You use to Do.. 🙂"
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=raushan1140&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan1140&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
