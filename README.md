@@ -138,20 +138,94 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- README refresh 2026-06-03 -->
+
+
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raushan1140&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raushan1140&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF"/>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushan1140&theme=tokyonight" width="100%" />
+
+
+
+<br><br>
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raushan1140&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushan1140&theme=tokyonight" width="48%" />
+
+
+
+<br><br>
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushan1140&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raushan1140&theme=tokyonight&utcOffset=5.5" width="48%" />
+
+
 
 </div>
+
+
+
+---
+
+
+
+### 🔥 Contribution Streak
+<!-- README refresh 2026-06-03 -->
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raushan1140&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=raushan1140&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 
 </div>
+
+
+
+---
+
+
+
+### 📈 Contribution Graph
+<!-- README refresh 2026-06-03 -->
+
+
+<div align="center">
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raushan1140&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+### 🏆 GitHub Trophies
+<!-- README refresh 2026-06-03 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raushan1140&theme=tokyonight" />
+</p>
+
+
+
+</div>
+
 
 
 ## 💡 Random Dev Quote
